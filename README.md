@@ -1,3 +1,3 @@
 # IdulFitri1442H
 repo kartu ucapan
-copyright  : twitter.com/@mutiacangtip
+copyright  : https://twitter.com/@mutiacangtip
